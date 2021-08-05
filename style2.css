@@ -1,0 +1,90 @@
+body{
+    background-color: rgba(0, 152, 131);
+}
+
+.logo{
+
+    margin-top: 10px;
+    height: 120px;
+}
+
+@font-face {
+    font-family: themillion;
+    src: url(Fuente.ttf);
+}
+
+.niveles-mundiales{
+
+    font-family: themillion;
+    color: white;
+    margin-top: 5px;
+}
+
+.nombre-nivel{
+
+    font-family: themillion;    
+}
+
+.input-nombre{
+    font-family: themillion;
+    position: relative;
+
+}
+
+.apariencia-nivel{
+
+    font-family: themillion;
+}
+
+.Apariencia{
+    font-family: themillion;
+    position: relative;
+}
+
+.archivo-nivel{
+    font-family: themillion;
+
+}
+
+.input-nivel{
+    font-family: themillion;
+    position: relative;
+
+}
+
+.submit-level{
+    font-family: themillion;
+    position: relative;
+
+}
+
+.Nota{
+    font-family: themillion;
+    position: relative;
+}
+
+.input-creador{
+    font-family: themillion;
+    position: relative;
+}
+
+.creador-nivel{
+    font-family: themillion;  
+}
+
+.discord{
+    text-decoration: none;
+    font-family: themillion;
+}
+
+.ok{
+    font-family: themillion;
+}
+
+.bad{
+    font-family: themillion;
+}
+
+.sn{
+    font-family: themillion;
+}

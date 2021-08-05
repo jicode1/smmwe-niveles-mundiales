@@ -1,0 +1,45 @@
+.uno{
+    font-family: themillion;
+    background-color: yellow;
+
+}
+
+.dos{
+    font-family: themillion;
+    background-color: rgba(255, 255, 255, 0.87);
+
+}
+
+.tres{
+    font-family: themillion;
+    background-color: rgba(253, 156, 9, 0.87);
+
+}
+
+.cuatro{
+    font-family: themillion;
+    background-color: rgba(150, 144, 247, 0.87);
+ 
+}
+
+.cinco{
+    font-family: themillion;
+    background-color: rgba(150, 144, 247, 0.87);
+ 
+}
+
+.level-ui{
+    background-color: tomato;
+}
+
+.todos-los-niveles{
+    position: relative;
+    right: 0px;
+    bottom: 0px;
+    text-decoration: none;
+    font-family: themillion;
+    color: black;
+    background-color: rgb(112, 255, 172);
+    border-radius: 5px;
+    font-size: 28px;
+}
